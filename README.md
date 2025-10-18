@@ -447,11 +447,11 @@ Contributions are welcome! Please:
 
 ## 📧 Contact
 
-**Project Maintainer**: Your Name
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Project Maintainer**: Vaibhav Kumar Mohanty
+- Email: mohantykvaibhav.email@example.com
+- GitHub: [@FickleVaibhav](https://github.com/FickleVaibhav)
 
-**Issues**: Please report bugs and feature requests on [GitHub Issues](https://github.com/yourusername/RespiScope-AI/issues)
+**Issues**: Please report bugs and feature requests on [GitHub Issues](https://github.com/FickleVaibhav/RespiScope-AI/issues)
 
 ---
 
