@@ -489,5 +489,5 @@ This system is intended for research and educational purposes only. It is **NOT*
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: October 2024  
+**Last Updated**: 25 October 2025
 **Status**: Active Development
