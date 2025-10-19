@@ -408,7 +408,7 @@ Contributions welcome! Areas needing help:
 ## 📧 Support
 
 - **GitHub Issues:** Bug reports and feature requests
-- **Email:** your.email@example.com
+- **Email:** mohantykvaibhav@gmail.com
 - **Documentation:** See docs/ directory
 - **Hardware Questions:** hardware/stethoscope_assembly/assembly_steps.md
 
